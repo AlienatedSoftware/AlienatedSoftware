@@ -1,9 +1,28 @@
-Hello World! I go by @AlienatedSoftware, my day-to-day human name is Aidan. I have recently graduated in Animation, specialising in technical arts but now I have decided to fully pursue in the cybernetic simulation of code to further expand my intelligence and knowledge!
+### Hi there, I'm Aidan - aka AlienatedSoftware 👽
 
-I am very interested in nature, various arts and code. I spend most of my time day dreaming and getting lost in the outside world, whilst being fasciated in virtual worlds of others' creations.
+---
 
-As of the time of typing this out, I am currently enrolled in a Full Stack Web Development course over at Code Institute working hard to earn my diploma in Software Development!
+## I'm a Animation Graduate that specilised in Technical Arts and a new face to the digitalised world of coding/programming! 👾
 
-In the future I will be working on many fun projects such as CG and technical arts, as well as fully developing my very own games and mobile applications. Bringing entertainment and joy to the world for all to see and explore. In the distant future, I hope to be able to fundamentally build my own game empire and happily retire in a nice little setllement in the middle of nowhere and become a farmer in my eldery years.
+- I have just recently enrolled with [Code Institute][course] to work towards a diploma in software development.
+- I am currently learning JavaScript & Python!
+- Always down to collaborate with other technical masterminds on fun projects 😁
+- 2021 Goals: Earn my Software Development Diploma, and CS50x certificates. As well as creating some mods for video games to entertain the communities and possibly have my own little game project kickstarting.
+- Fun Fact: I am deaf, proud and committed to living the best life possible!
 
-You can reach me on here, or my Instagram @ImAlienGod. Or for more personal work enquiries, you can reach me through aidancgart@gmail.com
+---
+
+### Languages and Tools:
+
+<img alt="HTML5" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img alt="CSS3" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img alt="Python" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+
+---
+
+![AlienatedSoftware's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienatedSoftware&show_icons=true&hide_border=true"&theme=chartreuse-dark)
+
+</details>
+
+[course]: https://codeinstitute.net/
